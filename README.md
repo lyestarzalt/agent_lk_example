@@ -1,6 +1,6 @@
 To set up this project:
 
-1. Install packages using `uv sync`
+1. Install packages using `uv sync`, you can install using `pip install uv`
 
 2. Fill in the `.local.env` file with:
    ```
